@@ -1,3 +1,5 @@
+Having some Difficulties, will be done soon.
+
 # 🔥 AI Command Center 2025
 
 Welcome to the **AI Command Center 2025** — your all-in-one solution for deploying smart assistants, capturing leads, and analyzing user engagement.
